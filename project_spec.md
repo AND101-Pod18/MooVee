@@ -45,7 +45,7 @@ Stretch Features:
 
 ### 2. Chosen API(s)
 
-- https://developer.themoviedb.org/reference/genre-movie-list
+- https://developer.themoviedb.org/reference/intro/getting-started
     - **list associated required feature here**
     - ...
 - ...
@@ -74,6 +74,7 @@ Here's a place for any other notes on the app, it's creation
 process, or what you learned this unit!
 
 For Milestone 2, include **2+ Videos/GIFs** of the build process here!
+
 
 ## License
 
