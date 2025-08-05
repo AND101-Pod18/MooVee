@@ -11,7 +11,7 @@
 
 ### Description
 
-This app recommends a random movie to watch.
+This app allows the user to discover new movies by filtering by genre, year, and keywords. The app also recommends movies to watch based on a selected movie.
 
 ### App Evaluation
 

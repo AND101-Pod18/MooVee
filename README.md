@@ -24,18 +24,22 @@ The following REQUIRED features are completed:
   - [x] Evan - Completing the Backend: Fixing keyword search with additional API call, Fetching recommended movies on long click, Adding movie overview
   - [x] Ruthie - Completing the UI: Custom styling, fonts, text, etc.
 - [x] Establish a goal time for completing each feature
-  - [x] Initial UI - 2 hours
-  - [x] Initial Backend - 3 hours
-  - [x] Completing the Backend - 3 hours
-  - [x] Completing the UI - 2 hours
+  - browse movies based on: 3 hours
+    - genre (drop down)
+    - release year (drop down)
+    - keyword (text input)
+  - invoke the api when its clicked : 2 hours
+  - 3 filters at the top : 3 hours
+  - default (release year = 2025) : 0.5 hours
+  - recommendations on long click : 1 hour
 
 The following REQUIRED files are included:
 
-- [ ] Updated 📄 `project_spec.md`, which contains:
+- [x] Updated 📄 `project_spec.md`, which contains:
   - [X] App Overview (Milestone 1)
   - [X] App Spec (Milestone 1)
-  - [ ] Checked off 2+ completed features
-  - [ ] 2+ Videos/GIFs of build progress
+  - [x] Checked off 2+ completed features
+  - [x] 2+ Videos/GIFs of build progress
 
 - [ ] Our 🎥 Demo Video
   - [ ] We have also added the Demo Video Link to the Group Info Form on the course portal.
