@@ -45,10 +45,12 @@ Stretch Features:
 
 ### 2. Chosen API(s)
 
-- https://developer.themoviedb.org/reference/intro/getting-started
-    - **list associated required feature here**
-    - ...
-- ...
+- https://developer.themoviedb.org/reference/discover-movie
+    - **Searching by keyword, genre, and year**
+- https://developer.themoviedb.org/reference/search-keyword
+    - **Searching for keyword IDs**
+- https://developer.themoviedb.org/reference/movie-recommendations 
+    - **Getting recommended movies**
 
 ### 3. User Interaction
 
@@ -74,11 +76,13 @@ Here's a place for any other notes on the app, it's creation
 process, or what you learned this unit!
 
 For Milestone 2, include **2+ Videos/GIFs** of the build process here!
-
+<img src="Process1.gif" width=600>
+<img src="Process2.gif" width=600>
+<img src="Process3.gif" width=600>
 
 ## License
 
-Copyright **yyyy** **Sai, Kris, Ruthie, Evan**
+Copyright **2025** **Sai, Kris, Ruthie, Evan**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
