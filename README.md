@@ -52,7 +52,12 @@ The following EXTRA features are implemented:
 
 Here's a video that demos all of the app's implemented features:
 
-<img src='https://imgur.com/a/atUi9S1' title='Video Demo' width='' alt='Video Demo' />
+Shows filtering by keywords, genre, and year
+<a href="https://imgur.com/a/atUi9S1" target="_blank">Video Demo</a>
+
+Shows the recommended movies on long click
+<img src="Process3.gif" alt="Video Demo 2">
+
 
 VIDEO created with **your chosen video tool**
 
