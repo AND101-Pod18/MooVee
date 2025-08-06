@@ -52,7 +52,7 @@ The following EXTRA features are implemented:
 
 Here's a video that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://imgur.com/a/atUi9S1' title='Video Demo' width='' alt='Video Demo' />
 
 VIDEO created with **your chosen video tool**
 
