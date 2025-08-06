@@ -31,27 +31,25 @@
             android:layout_height="wrap_content"
             android:textSize="20sp"
             android:fontFamily="sans-serif-medium"
-            android:textStyle="bold"
-            android:textColor="@android:color/white" />
+            android:textStyle="bold"/>
 
         <TextView
             android:id="@+id/movieYear"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="2dp"
-            android:textColor="@android:color/darker_gray"
-            android:textSize="14sp" />
+            android:textColor="@android:color/black"
+            android:textSize="14sp"/>
 
         <TextView
             android:id="@+id/movieOverview"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="6dp"
-            android:textColor="@android:color/white"
             android:textSize="13sp"
             android:lineSpacingExtra="3dp"
             android:ellipsize="end"
-            android:maxLines="8" />
+            android:maxLines="8"/>
 
     </LinearLayout>
 
