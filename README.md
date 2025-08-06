@@ -22,7 +22,7 @@ The following REQUIRED features are completed:
   - [x] Sai - Initial UI: Filter button, spinner, and keyword input
   - [x] Kris - Initial Backend: Parsing the API, Creating the Adapter, RecyclerView, MovieItem
   - [x] Evan - Completing the Backend: Fixing keyword search with additional API call, Fetching recommended movies on long click, Adding movie overview
-  - [] Ruthie - Completing the UI: Custom styling, fonts, text, etc.
+  - [x] Ruthie - Completing the UI: Custom styling, fonts, text, etc.
 - [x] Establish a goal time for completing each feature
   - browse movies based on: 3 hours
     - genre (drop down)
@@ -41,8 +41,8 @@ The following REQUIRED files are included:
   - [x] Checked off 2+ completed features
   - [x] 2+ Videos/GIFs of build progress
 
-- [ ] Our 🎥 Demo Video
-  - [ ] We have also added the Demo Video Link to the Group Info Form on the course portal.
+- [x] Our 🎥 Demo Video
+  - [x] We have also added the Demo Video Link to the Group Info Form on the course portal.
 
 The following EXTRA features are implemented:
 
