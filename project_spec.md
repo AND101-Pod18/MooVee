@@ -11,7 +11,7 @@
 
 ### Description
 
-This app recommends a random movie to watch.
+This app allows the user to discover new movies by filtering by genre, year, and keywords. The app also recommends movies to watch based on a selected movie.
 
 ### App Evaluation
 
@@ -30,13 +30,13 @@ This app recommends a random movie to watch.
 
 Required Features:
 
-- browse movies based on:
-    - genre (drop down)
-    - release year (drop down)
-    - keyword (text input)
-- invoke the api when its clicked
-- 3 filters at the top
-- default (release year = 2025)
+- [x] browse movies based on:
+    - [x] genre (drop down)
+    - [x] release year (drop down)
+    - [x] keyword (text input)
+- [x] invoke the api when its clicked
+- [x] 3 filters at the top
+- [x] default (release year = 2025)
 
 Stretch Features:
 
@@ -45,10 +45,12 @@ Stretch Features:
 
 ### 2. Chosen API(s)
 
-- https://developer.themoviedb.org/reference/genre-movie-list
-    - **list associated required feature here**
-    - ...
-- ...
+- https://developer.themoviedb.org/reference/discover-movie
+    - **Searching by keyword, genre, and year**
+- https://developer.themoviedb.org/reference/search-keyword
+    - **Searching for keyword IDs**
+- https://developer.themoviedb.org/reference/movie-recommendations 
+    - **Getting recommended movies**
 
 ### 3. User Interaction
 
@@ -74,10 +76,13 @@ Here's a place for any other notes on the app, it's creation
 process, or what you learned this unit!
 
 For Milestone 2, include **2+ Videos/GIFs** of the build process here!
+<img src="Process1.gif" width=600>
+<img src="Process2.gif" width=600>
+<img src="Process3.gif" width=600>
 
 ## License
 
-Copyright **yyyy** **Sai, Kris, Ruthie, Evan**
+Copyright **2025** **Sai, Kris, Ruthie, Evan**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
