@@ -30,13 +30,13 @@ This app allows the user to discover new movies by filtering by genre, year, and
 
 Required Features:
 
-- browse movies based on:
-    - genre (drop down)
-    - release year (drop down)
-    - keyword (text input)
-- invoke the api when its clicked
-- 3 filters at the top
-- default (release year = 2025)
+- [x] browse movies based on:
+    - [x] genre (drop down)
+    - [x] release year (drop down)
+    - [x] keyword (text input)
+- [x] invoke the api when its clicked
+- [x] 3 filters at the top
+- [x] default (release year = 2025)
 
 Stretch Features:
 
