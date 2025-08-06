@@ -59,7 +59,7 @@ The below GIFs shows the recommended movies on long click:
 <img src="Process3.gif" alt="Video Demo 2">
 
 
-VIDEO created with **your chosen video tool**
+VIDEO created with **Imgur**
 
 ## Notes
 
