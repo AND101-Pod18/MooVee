@@ -52,10 +52,10 @@ The following EXTRA features are implemented:
 
 Here's a video that demos all of the app's implemented features:
 
-Shows filtering by keywords, genre, and year
+The below link shows filtering by keywords, genre, and year:  
 <a href="https://imgur.com/a/atUi9S1" target="_blank">Video Demo</a>
 
-Shows the recommended movies on long click
+The below GIFs shows the recommended movies on long click:  
 <img src="Process3.gif" alt="Video Demo 2">
 
 
