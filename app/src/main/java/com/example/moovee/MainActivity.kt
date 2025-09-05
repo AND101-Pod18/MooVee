@@ -1,4 +1,5 @@
 package com.example.moovee
+import com.example.moovee.BuildConfig
 
 import android.os.Bundle
 import android.widget.*
@@ -11,13 +12,15 @@ import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.codepath.asynchttpclient.AsyncHttpClient
+
 import com.codepath.asynchttpclient.callback.JsonHttpResponseHandler
 import okhttp3.Headers
+
 import org.json.JSONObject
 
 class MainActivity : AppCompatActivity() {
 
-    private val apiKey = "7471e6ac9ac158fec47498616b4ca277"
+    private val apiKey = BuildConfig.TMDB_API_KEY
 
     private val genreMap = mapOf(
         "Action" to "28", "Adventure" to "12", "Animation" to "16", "Comedy" to "35",
